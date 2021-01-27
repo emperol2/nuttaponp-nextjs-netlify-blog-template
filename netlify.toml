@@ -4,6 +4,6 @@
   
 [[redirects]]
   from = "http://nuttaponp.tk/*"
-  to = "https://nuttaponp/:splat"
+  to = "https://nuttaponp.tk/:splat"
   status = 301
   force = true
