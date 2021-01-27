@@ -1,3 +1,9 @@
 [build]
   publish = "dist"
   command = "npm run export"
+  
+[[redirects]]
+  from = "http://nuttaponp.tk/*"
+  to = "https://nuttaponp/:splat"
+  status = 301
+  force = true
